@@ -16,7 +16,7 @@ public class FirstController {
     }
 
     @GetMapping("/hello3")
-    public String test2(){
+    public String test3(){
         return "Hello World --- 3 !";
     }
 }
